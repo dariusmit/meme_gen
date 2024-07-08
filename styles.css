@@ -1,0 +1,34 @@
+.outputs {
+    width: 50%;
+    float: left;
+}
+
+.actions {
+    width: 50%;
+    float: right;
+}
+
+.buttons_list {
+    list-style-type: none;
+}
+
+.buttons_list li {
+    margin: 10px;
+}
+
+#outputs_list {
+    list-style-type: none;
+}
+
+#rndMem {
+    width: 400px;
+}
+
+.revealAnswer {
+    background-color: white;
+    border: none;
+}
+
+.revealAnswer:hover {
+    text-decoration: underline;
+}
